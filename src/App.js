@@ -52,7 +52,7 @@ function App() {
 
   return (
     <div>
-      <h1>Calculating alcohol boold level</h1>
+      <h1>Calculating alcohol blood level</h1>
       <form>
         <div>
           <label className="form-label">Weight</label>
